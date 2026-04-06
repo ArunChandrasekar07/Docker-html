@@ -13,7 +13,7 @@ spec:
         app: html-demo
     spec:
       containers:
-      - name: html-demo
+      - name: html-demo2
         image: arundocker2005/html-demo2:latest
         ports:
         - containerPort: 80
